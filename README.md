@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ConnorOBS
-- 👀 I’m interested in developing domains I purchased from Google Domains a few years ago. 
-- 🌱 I’m currently learning about the basics of html and css, guided by my previous R language knowledge and a book by Jon Duckett. 
-- 💞️ I’m looking to collaborate on research or creative projects. My B.S. is in Biology, specifically botany, entomology, and animal behavior. 
+- 👀 I’m interested in a technology and science based career path, I enjoy solving problems in a creative way and sharing my process with others. 
+- 🌱 I’m currently learning how to use Raspberry Pi 4, Rstudio, and git workflow. 
+- 💞️ I’m looking for entry level positions in tech companies, an opportunity to learn new skills and use the transferable skills I've gained from my Bachelor's of Science degree in Biology.  
 - 📫 How to reach me: cobrienstoffa@gmail.com
 
 <!---
